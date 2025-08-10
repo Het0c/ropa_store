@@ -1,0 +1,1 @@
+"# ropa_store"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:Het0c/ropa_store.gitgit push -u origin main
